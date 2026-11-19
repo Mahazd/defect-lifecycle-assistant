@@ -66,3 +66,17 @@ The workflow validates model responses before routing. It masks matching identif
 ## Future improvements
 
 Add persistent defect history, an interactive clarification form, a UI, and an integration with a defect tracker. Add more synthetic transfer tests covering other failure modes.
+
+
+
+## Team Members
+
+- Maha Alshalahi — https://github.com/Mahazd
+- Eman Aldawish — https://github.com/Eman-Aldawish
+- falwah Alotaibi — https://github.com/Flwahaa
+
+## Training Program
+
+This project was developed as the final project for the Advanced Agentic AI Systems Engineering program at SDAIA Academy.
+
+[SDAIA Academy GitHub](https://github.com/SDAIAAcademy)
